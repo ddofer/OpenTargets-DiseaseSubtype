@@ -1,0 +1,13 @@
+source,Original Source Fraction (%),Predictions Source Fraction (%),Total Source Diseases,Ratio difference
+MONDO,37,35,8801,0.95
+EFO,28,22,4590,0.79
+Orphanet,28,24,2061,0.85
+HP,32,26,1366,0.82
+GO,56,60,352,1.07
+OBA,11,0,27,0.0
+OTAR,77,100,9,1.29
+DOID,50,50,6,1.0
+OBI,75,50,4,0.67
+NCIT,0,66,3,inf
+MP,100,100,2,1.0
+OGMS,100,100,1,1.0
